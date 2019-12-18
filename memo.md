@@ -1,0 +1,1 @@
+https://github.com/typescript-eslint/typescript-eslint/issues/109#issuecomment-536160947
